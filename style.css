@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+.converter {
+  display: inline-block;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+input, select, button {
+  padding: 5px;
+  margin: 5px;
+}
